@@ -1,0 +1,10 @@
+PAC-MAN a mancat fructul kiwi - jos pe coloana 2 si linia 10 cu punctajul 200
+PAC-MAN a mancat fructul kiwi - dreapta pe coloana 5 si linia 10 cu punctajul 400
+PAC-MAN a mancat bila alba - dreapta pe coloana 6 si linia 10
+PAC-MAN a mancat fantoma mergand in sus pe coloana 4 si linia 9
+PAC-MAN a mancat bila alba - jos pe coloana 10 si linia 10
+PAC-MAN a mancat fantoma mergand in stanga pe coloana 9 si linia 10
+PAC-MAN a mancat fructul kiwi - stanga pe coloana 8 si linia 10 cu punctajul 620
+PAC-MAN a mancat fructul kiwi - sus pe coloana 10 si linia 2 cu punctajul 820
+PAC-MAN a mancat fructul kiwi - sus pe coloana 2 si linia 2 cu punctajul 1020
+Ai castigat! Ai reusit sa mananci toate fructele si o parte din bilele albe
